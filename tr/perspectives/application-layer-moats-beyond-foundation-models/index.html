@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="tr" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- Google Tag Manager -->
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PH9PW3JR');</script>
+<!-- End Google Tag Manager -->
+<title>Temel modelin ötesi: Uygulama katmanında savunma hattı kurmak | Impact Capital VC</title>
+<meta name="description" content="Herkes aynı modeli kullanabiliyorsa savunulabilirlik nereden gelir? Veriden, iş akışı derinliğinden ve alışılmadık nişlerdeki dağıtımdan.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<link rel="canonical" href="https://impactcapital.vc/tr/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="en" href="https://impactcapital.vc/en/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="zh-Hans" href="https://impactcapital.vc/zh/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="es" href="https://impactcapital.vc/es/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="hi" href="https://impactcapital.vc/hi/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="ar" href="https://impactcapital.vc/ar/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="fr" href="https://impactcapital.vc/fr/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="pt" href="https://impactcapital.vc/pt/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="ru" href="https://impactcapital.vc/ru/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="ja" href="https://impactcapital.vc/ja/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="de" href="https://impactcapital.vc/de/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="id" href="https://impactcapital.vc/id/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="bn" href="https://impactcapital.vc/bn/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="ur" href="https://impactcapital.vc/ur/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="tr" href="https://impactcapital.vc/tr/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="ko" href="https://impactcapital.vc/ko/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="vi" href="https://impactcapital.vc/vi/perspectives/application-layer-moats-beyond-foundation-models/">
+<link rel="alternate" hreflang="x-default" href="https://impactcapital.vc/en/perspectives/application-layer-moats-beyond-foundation-models/">
+<meta property="og:site_name" content="Impact Capital VC">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Temel modelin ötesi: Uygulama katmanında savunma hattı kurmak | Impact Capital VC">
+<meta property="og:description" content="Herkes aynı modeli kullanabiliyorsa savunulabilirlik nereden gelir? Veriden, iş akışı derinliğinden ve alışılmadık nişlerdeki dağıtımdan.">
+<meta property="og:url" content="https://impactcapital.vc/tr/perspectives/application-layer-moats-beyond-foundation-models/">
+<meta property="og:image" content="https://impactcapital.vc/assets/img/a04.webp">
+<meta property="og:locale" content="tr">
+<meta property="og:locale:alternate" content="en">
+<meta property="og:locale:alternate" content="zh_Hans">
+<meta property="og:locale:alternate" content="es">
+<meta property="og:locale:alternate" content="hi">
+<meta property="og:locale:alternate" content="ar">
+<meta property="og:locale:alternate" content="fr">
+<meta property="og:locale:alternate" content="pt">
+<meta property="og:locale:alternate" content="ru">
+<meta property="og:locale:alternate" content="ja">
+<meta property="og:locale:alternate" content="de">
+<meta property="og:locale:alternate" content="id">
+<meta property="og:locale:alternate" content="bn">
+<meta property="og:locale:alternate" content="ur">
+<meta property="og:locale:alternate" content="ko">
+<meta property="og:locale:alternate" content="vi">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Temel modelin ötesi: Uygulama katmanında savunma hattı kurmak | Impact Capital VC">
+<meta name="twitter:description" content="Herkes aynı modeli kullanabiliyorsa savunulabilirlik nereden gelir? Veriden, iş akışı derinliğinden ve alışılmadık nişlerdeki dağıtımdan.">
+<meta name="twitter:image" content="https://impactcapital.vc/assets/img/a04.webp">
+<meta name="theme-color" content="#070A1F">
+<link rel="icon" href="../../../assets/favicon.svg" type="image/svg+xml">
+<link rel="manifest" href="../../../site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Impact Capital VC — AI Perspectives" href="https://impactcapital.vc/tr/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../assets/style.css">
+<meta property="article:published_time" content="2026-07-21">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BlogPosting", "headline": "Temel modelin ötesi: Uygulama katmanında savunma hattı kurmak", "description": "Herkes aynı modeli kullanabiliyorsa savunulabilirlik nereden gelir? Veriden, iş akışı derinliğinden ve alışılmadık nişlerdeki dağıtımdan.", "image": ["https://impactcapital.vc/assets/img/a04.webp"], "datePublished": "2026-07-21", "dateModified": "2026-07-21", "inLanguage": "tr", "author": {"@type": "Organization", "name": "Impact Capital VC Araştırma", "url": "https://impactcapital.vc/"}, "publisher": {"@id": "https://impactcapital.vc/#org", "@type": "Organization", "name": "Impact Capital VC", "logo": {"@type": "ImageObject", "url": "https://impactcapital.vc/assets/favicon.svg"}}, "mainEntityOfPage": "https://impactcapital.vc/tr/perspectives/application-layer-moats-beyond-foundation-models/", "articleBody": "Her girişim aynı öncü modellere bir API aracılığıyla erişebildiğinde, modelin kendisi artık bir savunma hattı değildir. Savunulabilirlik başka bir yerden gelmelidir. Üç kalıcı kaynak görüyoruz. Birincisi, ürünün kendi kullanımından doğan ve rakiplerin satın alamayacağı özel veriler. İkincisi, müşterinin iş akışına derin entegrasyon; böylece değiştirmek süreçleri yeniden kurmak anlamına gelir. Üçüncüsü, büyük oyuncuların fazla küçük ya da tuhaf bulduğu için görmezden geldiği bir nişte dağıtım. En güçlü şirketler üçünü birleştirir. Alışılmadık bir pazarda başlar, benzersiz veri toplama hakkını kazanır ve bu veriyi ajanlarını herhangi bir genel amaçlı araçtan ölçülebilir biçimde daha iyi yapmak için kullanırlar.", "speakable": {"@type": "SpeakableSpecification", "cssSelector": [".article-desc", ".takeaways"]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Impact Capital VC", "item": "https://impactcapital.vc/tr/"}, {"@type": "ListItem", "position": 2, "name": "Yapay Zekâ Perspektifleri", "item": "https://impactcapital.vc/tr/perspectives/"}, {"@type": "ListItem", "position": 3, "name": "Temel modelin ötesi: Uygulama katmanında savunma hattı kurmak", "item": "https://impactcapital.vc/tr/perspectives/application-layer-moats-beyond-foundation-models/"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Bir yapay zekâ girişimini savunulabilir kılan nedir?", "acceptedAnswer": {"@type": "Answer", "text": "Ürün kullanımından gelen özel veriler, müşteri iş akışlarına derin entegrasyon ve belirli bir nişte güçlü dağıtım."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": ["Organization", "FinancialService"], "@id": "https://impactcapital.vc/#org", "name": "Impact Capital VC", "alternateName": "Impact Capital", "url": "https://impactcapital.vc/", "logo": "https://impactcapital.vc/assets/favicon.svg", "image": "https://impactcapital.vc/assets/img/og.jpg", "description": "Impact Capital VC is a venture fund created by leading venture capitalists, operators, technology entrepreneurs and scientists to back non-standard, unconventional agentic AI companies.", "knowsAbout": ["Venture capital", "Agentic AI", "Artificial intelligence", "Generative engine optimization", "AI startups"], "sameAs": ["https://www.linkedin.com/", "https://x.com/"]}</script>
+</head><body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH9PW3JR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<a class="skip" href="#main">İçeriğe geç</a>
+<header class="nav"><div class="wrap nav-in">
+<a class="brand" href="../../../tr/" aria-label="Impact Capital VC"><svg viewBox="0 0 40 40" width="40" height="40" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5B5BF7"/><stop offset=".55" stop-color="#19D3C5"/><stop offset="1" stop-color="#FFB547"/></linearGradient></defs><circle cx="20" cy="20" r="19" fill="url(#lg)"/><path d="M14 11v18M20 29V11l7 9-7 9" stroke="#070A1F" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Impact Capital <b>VC</b></span></a>
+<nav aria-label="Main"><ul class="menu">
+<li><a href="../../../tr/#portfolio">Portföy</a></li>
+<li><a href="../../../tr/#collective">Kolektif</a></li>
+<li><a href="../../../tr/perspectives/">Yapay Zekâ Perspektifleri</a></li>
+<li><a href="mailto:hello@impactcapital.vc">İletişim</a></li>
+</ul></nav>
+<details class="lang"><summary aria-label="Dil"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18" fill="none" stroke="currentColor" stroke-width="1.6"/></svg><span>Türkçe</span></summary><ul><li><a href="../../../en/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="en" lang="en">English</a></li><li><a href="../../../zh/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="zh-Hans" lang="zh-Hans">简体中文</a></li><li><a href="../../../es/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="es" lang="es">Español</a></li><li><a href="../../../hi/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="hi" lang="hi">हिन्दी</a></li><li><a href="../../../ar/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="ar" lang="ar">العربية</a></li><li><a href="../../../fr/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="fr" lang="fr">Français</a></li><li><a href="../../../pt/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="pt" lang="pt">Português</a></li><li><a href="../../../ru/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="ru" lang="ru">Русский</a></li><li><a href="../../../ja/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="ja" lang="ja">日本語</a></li><li><a href="../../../de/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="de" lang="de">Deutsch</a></li><li><a href="../../../id/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="id" lang="id">Bahasa Indonesia</a></li><li><a href="../../../bn/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="bn" lang="bn">বাংলা</a></li><li><a href="../../../ur/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="ur" lang="ur">اردو</a></li><li><a href="../../../tr/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="tr" lang="tr" aria-current="true">Türkçe</a></li><li><a href="../../../ko/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="ko" lang="ko">한국어</a></li><li><a href="../../../vi/perspectives/application-layer-moats-beyond-foundation-models/" hreflang="vi" lang="vi">Tiếng Việt</a></li></ul></details>
+</div></header>
+<main id="main"><article class="wrap article">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="../../">Impact Capital VC</a> / <a href="../">Yapay Zekâ Perspektifleri</a></nav>
+<header><p class="kicker">Yapay Zekâ Perspektifleri</p><h1 class="display sm">Temel modelin ötesi: Uygulama katmanında savunma hattı kurmak</h1>
+<p class="meta">Yayın tarihi <time datetime="2026-07-21">21 Temmuz 2026</time> · Yazan Impact Capital VC Araştırma</p></header>
+<figure class="art-hero"><img class="" src="../../../assets/img/a04.webp" srcset="../../../assets/img/a04-sm.webp 640w, ../../../assets/img/a04.webp 1536w" sizes="100vw" width="1536" height="1024" alt="Temel modelin ötesi: Uygulama katmanında savunma hattı kurmak" fetchpriority="high" decoding="async"></figure>
+<p class="lead article-desc">Herkes aynı modeli kullanabiliyorsa savunulabilirlik nereden gelir? Veriden, iş akışı derinliğinden ve alışılmadık nişlerdeki dağıtımdan.</p>
+<aside class="takeaways"><h2>Öne çıkanlar</h2><ul><li>Model erişimi artık bir emtia; savunma hattı başka yerde.</li><li>Özel kullanım verisi, iş akışı derinliği ve niş dağıtım kalıcı avantajlardır.</li><li>Alışılmadık pazarlar çoğu zaman en iyi başlangıç noktasıdır.</li></ul></aside>
+<div class="prose"><p>Her girişim aynı öncü modellere bir API aracılığıyla erişebildiğinde, modelin kendisi artık bir savunma hattı değildir. Savunulabilirlik başka bir yerden gelmelidir.</p><p>Üç kalıcı kaynak görüyoruz. Birincisi, ürünün kendi kullanımından doğan ve rakiplerin satın alamayacağı özel veriler. İkincisi, müşterinin iş akışına derin entegrasyon; böylece değiştirmek süreçleri yeniden kurmak anlamına gelir. Üçüncüsü, büyük oyuncuların fazla küçük ya da tuhaf bulduğu için görmezden geldiği bir nişte dağıtım.</p><p>En güçlü şirketler üçünü birleştirir. Alışılmadık bir pazarda başlar, benzersiz veri toplama hakkını kazanır ve bu veriyi ajanlarını herhangi bir genel amaçlı araçtan ölçülebilir biçimde daha iyi yapmak için kullanırlar.</p></div>
+<section class="faq"><h2>Sık sorulan sorular</h2><details class="qa" open><summary>Bir yapay zekâ girişimini savunulabilir kılan nedir?</summary><p>Ürün kullanımından gelen özel veriler, müşteri iş akışlarına derin entegrasyon ve belirli bir nişte güçlü dağıtım.</p></details></section>
+
+<p><a class="btn ghost" href="../">← Tüm perspektifler</a></p>
+</article>
+<section class="wrap block"><div class="arts"><a class="art" href="../nvidia-ceo-investigation-ai-industry-impact/"><img class="art-img" src="../../../assets/img/a01.webp" srcset="../../../assets/img/a01-sm.webp 640w, ../../../assets/img/a01.webp 1536w" sizes="(max-width:700px) 100vw, 33vw" width="1536" height="1024" alt="Jensen Huang soruşturması: Yapay zekâ sektörü için ne anlama gelebilir" loading="lazy" decoding="async">
+<span class="art-body"><time datetime="2026-11-09">9 Kasım 2026</time><strong>Jensen Huang soruşturması: Yapay zekâ sektörü için ne anlama gelebilir</strong><span class="muted">Nvidia yönetim kurulu, bir ilişkiyi kabul etmesinin ardından CEO Jensen Huang hakkında soruşturma başlattı. Kilit kişi, ihracat kontrolü ve tedarik zinciri açısından yapay zekâ sektörüne etkilerini değerlendiriyoruz.</span></span></a><a class="art" href="../ai-capital-supercycle-venture-funding/"><img class="art-img" src="../../../assets/img/a02.webp" srcset="../../../assets/img/a02-sm.webp 640w, ../../../assets/img/a02.webp 1536w" sizes="(max-width:700px) 100vw, 33vw" width="1536" height="1024" alt="Yapay zekâ sermaye süper döngüsü: Girişim sermayesi gerçekte nereye akıyor" loading="lazy" decoding="async">
+<span class="art-body"><time datetime="2026-10-14">14 Ekim 2026</time><strong>Yapay zekâ sermaye süper döngüsü: Girişim sermayesi gerçekte nereye akıyor</strong><span class="muted">Yapay zekâ artık girişim sermayesine hâkim. Paranın nereye gittiğini — altyapı, modeller ve uygulamalar — ve uygulama katmanının neden düşük değerlendiğini inceliyoruz.</span></span></a><a class="art" href="../why-agentic-ai-is-the-next-venture-frontier/"><img class="art-img" src="../../../assets/img/a03.webp" srcset="../../../assets/img/a03-sm.webp 640w, ../../../assets/img/a03.webp 1536w" sizes="(max-width:700px) 100vw, 33vw" width="1536" height="1024" alt="Ajan tabanlı yapay zekâ neden girişim sermayesinin bir sonraki sınırı" loading="lazy" decoding="async">
+<span class="art-body"><time datetime="2026-09-02">2 Eylül 2026</time><strong>Ajan tabanlı yapay zekâ neden girişim sermayesinin bir sonraki sınırı</strong><span class="muted">Sohbet botları soruları yanıtlar; ajanlar iş yapar. Ajan tabanlı yapay zekânın yazılım ekonomisini neden değiştirdiği ve yatırımcıların neye bakması gerektiği.</span></span></a></div></section></main>
+<footer class="foot"><div class="wrap foot-in">
+<div><a class="brand" href="../../../tr/"><svg viewBox="0 0 40 40" width="40" height="40" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5B5BF7"/><stop offset=".55" stop-color="#19D3C5"/><stop offset="1" stop-color="#FFB547"/></linearGradient></defs><circle cx="20" cy="20" r="19" fill="url(#lg)"/><path d="M14 11v18M20 29V11l7 9-7 9" stroke="#070A1F" stroke-width="3.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Impact Capital <b>VC</b></span></a><p class="muted">Ajan çağının alışılmadık kurucularının yanındayız.</p></div>
+<div><h2>Bağlantıda kalın</h2><ul><li><a href="https://x.com/" rel="noopener">X</a></li><li><a href="https://www.linkedin.com/" rel="noopener">LinkedIn</a></li><li><a href="mailto:hello@impactcapital.vc">Kariyer</a></li><li><a href="mailto:hello@impactcapital.vc">İletişim</a></li></ul></div>
+<div><h2>Yapay Zekâ Perspektifleri</h2><ul><li><a href="../../../tr/perspectives/">Yapay Zekâ Perspektifleri</a></li><li><a href="../../../tr/#portfolio">Portföy</a></li><li><a href="../../../tr/feed.xml">RSS</a></li></ul></div>
+<div><h2>Yasal</h2><ul><li><a href="../../../tr/privacy/">Gizlilik politikası</a></li></ul></div>
+</div><div class="wrap copy">© 2026 Impact Capital VC. Tüm hakları saklıdır.</div></footer>
+<script src="../../../assets/site.js" defer></script>
+</body></html>
