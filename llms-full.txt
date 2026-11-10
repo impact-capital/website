@@ -92,7 +92,7 @@ We see AEO and GEO as a new budget line in every marketing plan, and SNMRush as 
 
 ### The Jensen Huang investigation: what it could mean for the AI industry
 
-Published 2026-11-09. URL: https://impactcapital.vc/en/perspectives/nvidia-ceo-investigation-ai-industry-impact/
+Published 2026-11-09. URL: https://impact-capital.vc/en/perspectives/nvidia-ceo-investigation-ai-industry-impact/
 
 On 8 November 2026, Nvidia said a committee of independent directors, advised by outside counsel, would investigate CEO Jensen Huang after he confirmed a relationship with a woman reported to be suspected of links to Chinese intelligence. In an email to staff, Huang admitted he had been unfaithful to his wife. The board said it had no reason to believe national security or company secrets were compromised and that Huang remains chief executive. China's embassy in Washington denies the spying allegations.
 
@@ -108,7 +108,7 @@ Sources: Al Jazeera / Reuters — Nvidia investigates CEO Jensen Huang (8 Nov 20
 
 ### The AI capital supercycle: where venture money is really flowing
 
-Published 2026-10-14. URL: https://impactcapital.vc/en/perspectives/ai-capital-supercycle-venture-funding/
+Published 2026-10-14. URL: https://impact-capital.vc/en/perspectives/ai-capital-supercycle-venture-funding/
 
 Artificial intelligence has become the centre of gravity for global venture capital. A large share of every new dollar now goes to AI companies, and a handful of mega-rounds for model labs and infrastructure providers capture the headlines.
 
@@ -122,7 +122,7 @@ Q: Why invest in AI applications rather than foundation models? A: Applications 
 
 ### Why agentic AI is the next venture frontier
 
-Published 2026-09-02. URL: https://impactcapital.vc/en/perspectives/why-agentic-ai-is-the-next-venture-frontier/
+Published 2026-09-02. URL: https://impact-capital.vc/en/perspectives/why-agentic-ai-is-the-next-venture-frontier/
 
 The first wave of generative AI produced assistants that answer questions. The second wave produces agents: systems that plan, call tools, take actions and complete multi-step tasks on behalf of a user or a business.
 
@@ -136,7 +136,7 @@ Q: What is agentic AI? A: Agentic AI refers to systems that can plan, use tools 
 
 ### Beyond the foundation model: building moats in the application layer
 
-Published 2026-07-21. URL: https://impactcapital.vc/en/perspectives/application-layer-moats-beyond-foundation-models/
+Published 2026-07-21. URL: https://impact-capital.vc/en/perspectives/application-layer-moats-beyond-foundation-models/
 
 When every startup can access the same frontier models through an API, the model itself is no longer a moat. Defensibility has to come from somewhere else.
 
@@ -150,7 +150,7 @@ Q: What makes an AI startup defensible? A: Proprietary data from product usage, 
 
 ### Compute economics: how falling inference costs reshape AI startups
 
-Published 2026-06-10. URL: https://impactcapital.vc/en/perspectives/compute-economics-ai-startups/
+Published 2026-06-10. URL: https://impact-capital.vc/en/perspectives/compute-economics-ai-startups/
 
 Two cost curves define the AI economy. Training frontier models is becoming dramatically more expensive, while the cost of running a given level of capability — inference — keeps falling.
 
@@ -164,7 +164,7 @@ Q: Are AI inference costs going down? A: Yes. The cost of delivering a given lev
 
 ### From search to answers: GEO and AEO as a new venture category
 
-Published 2026-04-28. URL: https://impactcapital.vc/en/perspectives/from-search-to-answers-geo-aeo-venture-opportunity/
+Published 2026-04-28. URL: https://impact-capital.vc/en/perspectives/from-search-to-answers-geo-aeo-venture-opportunity/
 
 A growing share of discovery now happens inside AI assistants and AI-generated search summaries. Instead of ten blue links, users receive one synthesised answer — and a brand is either cited in it or invisible.
 
@@ -178,7 +178,7 @@ Q: What is the difference between SEO, GEO and AEO? A: SEO optimises for search 
 
 ### Valuation discipline in the AI boom: lessons from past cycles
 
-Published 2026-03-17. URL: https://impactcapital.vc/en/perspectives/valuation-discipline-in-the-ai-boom/
+Published 2026-03-17. URL: https://impact-capital.vc/en/perspectives/valuation-discipline-in-the-ai-boom/
 
 Technology booms follow a familiar pattern. Real breakthroughs attract capital, capital inflates valuations, and a correction separates companies with durable economics from those that only had momentum.
 
@@ -192,7 +192,7 @@ Q: Is AI a bubble? A: AI is a real platform shift, but valuations in parts of th
 
 ### Asia's AI corridor: why Singapore is a launchpad for agentic startups
 
-Published 2026-02-03. URL: https://impactcapital.vc/en/perspectives/singapore-asia-ai-corridor-venture/
+Published 2026-02-03. URL: https://impact-capital.vc/en/perspectives/singapore-asia-ai-corridor-venture/
 
 Singapore has become one of the most effective launchpads for AI companies in Asia. It offers strong universities, a clear and pragmatic approach to AI governance and a location at the centre of some of the world's fastest-growing digital markets.
 
@@ -206,7 +206,7 @@ Q: Why is Singapore attractive for AI startups? A: Singapore offers strong resea
 
 ### Scientist-founders: why researchers build the best agentic AI companies
 
-Published 2025-12-09. URL: https://impactcapital.vc/en/perspectives/scientist-founders-agentic-ai/
+Published 2025-12-09. URL: https://impact-capital.vc/en/perspectives/scientist-founders-agentic-ai/
 
 In many software categories, the founder's technical depth matters less than speed to market. In agentic AI, research depth is becoming a decisive advantage.
 
@@ -220,7 +220,7 @@ Q: Do AI startups need PhD founders? A: Not always, but in agentic AI, founders 
 
 ### Agentic AI for SMEs: automating cross-border growth
 
-Published 2025-10-21. URL: https://impactcapital.vc/en/perspectives/agentic-ai-smes-cross-border-commerce/
+Published 2025-10-21. URL: https://impact-capital.vc/en/perspectives/agentic-ai-smes-cross-border-commerce/
 
 Large enterprises can afford agencies, analysts and in-market teams. Small and mid-sized businesses usually cannot — which is why they may benefit most from AI agents.
 
@@ -234,7 +234,7 @@ Q: How can small businesses use AI agents? A: Small businesses can use AI agents
 
 ### Responsible AI as an investment criterion
 
-Published 2025-09-16. URL: https://impactcapital.vc/en/perspectives/responsible-ai-governance-investment-criterion/
+Published 2025-09-16. URL: https://impact-capital.vc/en/perspectives/responsible-ai-governance-investment-criterion/
 
 As regulation of AI expands across major markets, governance is shifting from a nice-to-have to a requirement for selling to serious customers.
 

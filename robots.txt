@@ -56,4 +56,4 @@ User-agent: *
 Allow: /
 Disallow: /*/privacy/
 
-Sitemap: https://impactcapital.vc/sitemap.xml
+Sitemap: https://impact-capital.vc/sitemap.xml
