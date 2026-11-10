@@ -1,0 +1,331 @@
+{
+ "ui": {
+  "site_title": "Impact Capital VC — Venture capital for unconventional agentic AI",
+  "site_desc": "Impact Capital VC is a venture fund created by leading venture capitalists, operators, technology entrepreneurs and scientists to back non-standard, unconventional agentic AI companies.",
+  "nav_portfolio": "Portfolio",
+  "nav_collective": "Collective",
+  "nav_perspectives": "AI Perspectives",
+  "nav_contact": "Contact",
+  "skip": "Skip to content",
+  "learn_more": "Learn more",
+  "read": "Read",
+  "language": "Language",
+  "invested": "Invested",
+  "investment_note": "Investment note",
+  "visit_site": "Visit website",
+  "back_portfolio": "All portfolio companies",
+  "back_perspectives": "All perspectives",
+  "takeaways": "Key takeaways",
+  "sources": "Sources",
+  "faq": "Frequently asked questions",
+  "published": "Published",
+  "by": "By",
+  "author": "Impact Capital VC Research",
+  "perspectives_title": "AI Perspectives",
+  "perspectives_desc": "Analysis from Impact Capital VC on venture capital, the AI boom and the rise of agentic AI.",
+  "portfolio_title": "Portfolio",
+  "connect": "Connect",
+  "legal": "Legal",
+  "privacy": "Privacy Policy",
+  "rights": "All rights reserved.",
+  "footer_tag": "Backing the unconventional builders of the agentic era.",
+  "careers": "Careers",
+  "sector": "Sector",
+  "hq": "Base"
+ },
+ "home": {
+  "hero_kicker": "Impact Capital VC",
+  "hero_title": "Capital for the AI that does not fit the template.",
+  "hero_sub": "We back non-standard, unconventional agentic AI companies — early, deeply and with the people who have built the industry.",
+  "statement_kicker": "Impact Capital VC",
+  "statement_title": "Partners in the <em>agentic</em> era.",
+  "statement_text": "Impact Capital VC was created by leading venture capitalists, businesspeople, technology entrepreneurs and scientists. We invest in founders whose AI agents do real work in the real world — and whose ideas are too unusual for conventional funds to price.",
+  "thesis_kicker": "Thesis",
+  "thesis_title": "What we look for",
+  "p1_t": "Agents, not features",
+  "p1_d": "Software that perceives, decides and acts on behalf of its users — and gets measurably better with every task it completes.",
+  "p2_t": "Science-grade depth",
+  "p2_d": "Peer-reviewed research, proprietary data and methods that are hard to copy, turned into products customers pay for.",
+  "p3_t": "Unconventional markets",
+  "p3_d": "Overlooked niches, cross-border corridors and industries that incumbents and generalist funds consider too strange to touch.",
+  "portfolio_kicker": "Portfolio",
+  "portfolio_title": "The <em>Unconventionals</em>",
+  "collective_kicker": "Collective",
+  "collective_title": "Built by people who have <em>built</em> it before.",
+  "c1_t": "Venture capitalists",
+  "c1_d": "Partners who have led and syndicated rounds from pre-seed to growth across multiple technology cycles.",
+  "c2_t": "Business leaders",
+  "c2_d": "Operators who have scaled companies, run P&Ls and opened new markets across Asia, Europe and the Americas.",
+  "c3_t": "Technology entrepreneurs",
+  "c3_d": "Founders who have shipped AI products to global brands and know the path from prototype to revenue.",
+  "c4_t": "Scientists",
+  "c4_d": "Researchers in machine learning, multimedia and social computing who help us judge what is real and what is hype.",
+  "perspectives_kicker": "AI Perspectives",
+  "perspectives_title": "Thinking on the <em>AI boom</em>",
+  "all_articles": "All perspectives",
+  "faq1_q": "What is Impact Capital VC?",
+  "faq1_a": "Impact Capital VC is a venture capital fund that invests in non-standard, unconventional agentic AI companies. It was created by venture capitalists, business leaders, technology entrepreneurs and scientists.",
+  "faq2_q": "What does Impact Capital VC invest in?",
+  "faq2_a": "The fund backs agentic AI businesses — companies whose AI agents autonomously perform work such as research, marketing, monitoring and content operations — especially in overlooked markets and cross-border corridors.",
+  "faq3_q": "Which companies are in the Impact Capital VC portfolio?",
+  "faq3_a": "The portfolio includes Defy, ToucHigh, Matrex Analytica, SNMRush, Mindfuse and Somonitor.",
+  "faq4_q": "How can founders contact Impact Capital VC?",
+  "faq4_a": "Founders building unconventional agentic AI companies can reach the team through the contact link on this website.",
+  "cta_title": "Building something <em>unconventional</em>?",
+  "cta_text": "We read every note from founders whose agents do work no one else thought software could do.",
+  "cta_btn": "Talk to us"
+ },
+ "companies": {
+  "defy": {
+   "tagline": "AI insight and automation for agencies and brand teams",
+   "sector": "Agentic marketing intelligence",
+   "hq": "United Kingdom · Singapore",
+   "summary": "Defy combines Defy Monitor for competitor, audience and conversation data, Defy MCP for querying that data inside AI assistants, and Defy Agents for automating repetitive delivery work.",
+   "note_title": "Why we invested in Defy",
+   "note": [
+    "Independent agencies and in-house brand teams compete against holding networks that spend heavily on proprietary data and AI. Defy gives smaller teams comparable analytical and automation capabilities without the build cost or the maintenance burden, and every insight traces back to the published content behind it.",
+    "We backed co-founders Ian Cassidy, Defy's CEO and a former creative agency leader, and Professor Aleks Farseev, its CTO and an AI scientist based in Singapore. The pairing of agency-side commercial instinct with research-grade AI is exactly the founder profile our fund was built to support.",
+    "Early adoption by a global consumer-appliance strategy team and a UK CRM agency confirms our view that agentic workflows will become standard infrastructure for agencies."
+   ]
+  },
+  "touchigh": {
+   "tagline": "AI marketing for cross-border sellers entering the US",
+   "sector": "Cross-border agentic commerce",
+   "hq": "China · United States",
+   "summary": "ToucHigh helps cross-border e-commerce sellers win US customers with one strategy driving two automated modules: GEO visibility in AI answer engines and social content publishing, each scored before it goes live.",
+   "note_title": "Why we invested in ToucHigh",
+   "note": [
+    "Thousands of manufacturers and sellers have products US consumers want but almost no US brand presence. As discovery moves from search results to AI answers, that gap widens. ToucHigh closes it by automatically producing GEO content for AI engines and US-style social posts and ads, with a predicted engagement score attached to each piece.",
+    "We invested behind CEO Zhao Kui and CTO Kirill Lepikhin. Zhao Kui brings deep understanding of cross-border sellers and their go-to-market constraints; Kirill Lepikhin leads the engineering of the platform's agentic content and scoring pipeline.",
+    "The corridor between Asian manufacturing and Western demand is one of the most unconventional and underserved markets for AI. ToucHigh is our bet on agents becoming the export department for small and mid-sized businesses."
+   ]
+  },
+  "matrex": {
+   "tagline": "Digital presence intelligence for leaders and investors",
+   "sector": "Agentic thought leadership",
+   "hq": "London · Singapore",
+   "summary": "Matrex Analytica builds Matrex Terminal, content infrastructure for thought leadership that monitors industry media and competitors, then drafts publication-ready posts and articles for executives to approve.",
+   "note_title": "Why we invested in Matrex Analytica",
+   "note": [
+    "Senior executives know visibility matters, yet few have time to publish consistently. Matrex Terminal monitors thousands of articles and posts each month, evaluates a very large space of positioning options before each draft, and publishes under the executive's own name so that search engines and AI assistants can index the work.",
+    "We backed founder and CEO Alex Kaminskiy, who leads the company from London and Singapore. His focus on investors, operators and public-impact teams gives Matrex a clear wedge into a premium segment that generic writing tools do not serve.",
+    "Matrex was developed within Singapore's academic ecosystem, with research published at leading venues, which reflects our conviction that science-grade AI produces defensible products."
+   ]
+  },
+  "snmrush": {
+   "tagline": "SEO, AEO and GEO — be the answer AI gives",
+   "sector": "Answer-engine optimisation",
+   "hq": "Singapore",
+   "summary": "SNMRush is a Singapore-based agency that helps brands rank in search, get cited in AI-generated answers and earn mentions, tracking visibility across ChatGPT, Gemini, Perplexity and Google AI Overviews.",
+   "note_title": "Why we invested in SNMRush",
+   "note": [
+    "Search is splitting into two worlds: classic rankings and AI-generated answers. Brands are losing traffic to answer engines and lack the tools to measure or influence how they are cited. SNMRush offers AI-visibility audits, question research, answer-ready content, structured data and entity building in one service.",
+    "Its method starts from the real questions audiences ask, discovered through AI audience research, rather than keyword lists. That makes it a natural early leader in answer-engine optimisation.",
+    "We see AEO and GEO as a new budget line in every marketing plan, and SNMRush as an efficient, agent-assisted way to capture it."
+   ]
+  },
+  "mindfuse": {
+   "tagline": "Consumer psychology and cultural insight for Southeast Asia",
+   "sector": "AI-augmented consumer insight",
+   "hq": "Singapore",
+   "summary": "Mindfuse is a Singapore consultancy that delivers tension studies, persona discovery, cultural code decoding and Gen Z segmentation for brands across Southeast Asia, combining AI analysis of public conversation with human cultural interpretation.",
+   "note_title": "Why we invested in Mindfuse",
+   "note": [
+    "Southeast Asia is diverse, fast-moving and often misread by global brands. Mindfuse identifies the tensions audiences actually face and segments people by situation rather than ethnicity, giving marketers insight that is both culturally accurate and fast to produce.",
+    "Its hybrid model, with AI reading public conversation at scale and researchers validating the findings with real people, has reported dramatic reductions in research and ideation time for clients.",
+    "Mindfuse represents a thesis we care about: agentic AI does not replace human judgement in culture-heavy work; it multiplies it."
+   ]
+  },
+  "somonitor": {
+   "tagline": "Always-on social and brand listening",
+   "sector": "Agentic social listening",
+   "hq": "Singapore",
+   "summary": "Somonitor is an always-on listening app that tracks share of voice, decodes tones, emotions and tensions in public conversation, and sends early warnings when a topic starts to shift, with every insight linked to the posts behind it.",
+   "note_title": "Why we invested in Somonitor",
+   "note": [
+    "Most listening tools produce black-box sentiment scores that teams struggle to act on. Somonitor listens continuously across social media, news and forums and links every insight to the public posts that support it, so brand, communications and strategy teams can trust what they see.",
+    "It analyses conversation at the level of themes and communities rather than individuals, a privacy-conscious design we believe will age well as regulation tightens.",
+    "Weekly AI briefs and early-warning alerts turn listening into an agent that works for the team around the clock — a strong example of the agentic products we back."
+   ]
+  }
+ },
+ "articles": {
+  "a01": {
+   "title": "The Jensen Huang investigation: what it could mean for the AI industry",
+   "desc": "Nvidia's board is investigating CEO Jensen Huang after he admitted an affair. We assess the key-person, export-control and supply-chain implications for the AI industry.",
+   "body": [
+    "On 8 November 2026, Nvidia said a committee of independent directors, advised by outside counsel, would investigate CEO Jensen Huang after he confirmed a relationship with a woman reported to be suspected of links to Chinese intelligence. In an email to staff, Huang admitted he had been unfaithful to his wife. The board said it had no reason to believe national security or company secrets were compromised and that Huang remains chief executive. China's embassy in Washington denies the spying allegations.",
+    "For the AI industry, the first issue is key-person risk. Nvidia supplies most of the accelerators that train frontier models, and Huang is closely identified with its strategy. Analysts quoted by Yahoo Finance expect him to stay in the near term, but CNBC notes there is no obvious successor. The second issue is policy: members of Congress have asked Huang to testify, and the episode is likely to intensify scrutiny of AI chip sales to China.",
+    "For founders, our advice is practical: avoid single-vendor dependence for compute, budget for export-control volatility, and build products whose value sits in data and workflows rather than in access to one supplier's hardware."
+   ],
+   "takeaways": [
+    "The investigation is ongoing; the allegations about espionage are unproven and denied by China.",
+    "Key-person and export-control risk now sit higher on every AI investor's checklist.",
+    "Startups should diversify compute and anchor their moats in data and workflows."
+   ],
+   "faq_q": "Is Jensen Huang still the CEO of Nvidia?",
+   "faq_a": "Yes. As of Nvidia's 8 November 2026 statement, Huang remains CEO while an independent board committee conducts its investigation."
+  },
+  "a02": {
+   "title": "The AI capital supercycle: where venture money is really flowing",
+   "desc": "AI now dominates venture capital. We map where the money goes — infrastructure, models and applications — and why the application layer is underpriced.",
+   "body": [
+    "Artificial intelligence has become the centre of gravity for global venture capital. A large share of every new dollar now goes to AI companies, and a handful of mega-rounds for model labs and infrastructure providers capture the headlines.",
+    "That concentration hides an opportunity. Capital is crowding into the most capital-intensive layers — chips, data centres and foundation models — where returns depend on enormous scale. Meanwhile, the application layer, where agents meet specific customers and specific workflows, is still priced like ordinary software.",
+    "We believe the next decade's outsized returns will come from companies that turn general-purpose models into specialised agents for neglected markets. These businesses need less capital, reach revenue sooner and compound proprietary data with every customer."
+   ],
+   "takeaways": [
+    "AI captures a dominant share of venture funding, concentrated in infrastructure and model labs.",
+    "The application and agent layer remains comparatively underpriced.",
+    "Capital-efficient, data-compounding agent companies are the fund's core focus."
+   ],
+   "faq_q": "Why invest in AI applications rather than foundation models?",
+   "faq_a": "Applications require far less capital, reach revenue faster and build moats through proprietary data and workflows, while foundation models demand massive scale."
+  },
+  "a03": {
+   "title": "Why agentic AI is the next venture frontier",
+   "desc": "Chatbots answer questions; agents do work. Here is why agentic AI changes software economics and what investors should look for.",
+   "body": [
+    "The first wave of generative AI produced assistants that answer questions. The second wave produces agents: systems that plan, call tools, take actions and complete multi-step tasks on behalf of a user or a business.",
+    "This shift changes software economics. Traditional software is sold per seat; agentic software can be sold per outcome — a published article, a resolved ticket, a monitored market. That lets small companies capture budgets that used to go to services and headcount.",
+    "When we evaluate an agentic company, we ask three questions. Does the agent complete work end to end? Does it improve with every task? And can the customer verify the result? Companies that answer yes to all three are rare, and they are exactly what we back."
+   ],
+   "takeaways": [
+    "Agents plan and act; they do not just respond.",
+    "Outcome-based pricing lets agents capture services budgets.",
+    "Look for end-to-end completion, learning loops and verifiable results."
+   ],
+   "faq_q": "What is agentic AI?",
+   "faq_a": "Agentic AI refers to systems that can plan, use tools and take actions autonomously to complete multi-step tasks, rather than only generating responses."
+  },
+  "a04": {
+   "title": "Beyond the foundation model: building moats in the application layer",
+   "desc": "If everyone can call the same model, where does defensibility come from? Data, workflow depth and distribution in unconventional niches.",
+   "body": [
+    "When every startup can access the same frontier models through an API, the model itself is no longer a moat. Defensibility has to come from somewhere else.",
+    "We see three durable sources. First, proprietary data generated by the product's own use, which competitors cannot buy. Second, deep integration into a customer's workflow, so that switching means rebuilding processes. Third, distribution into a niche that larger players ignore because it looks too small or too strange.",
+    "The strongest companies combine all three. They start in an unconventional market, earn the right to collect unique data, and use that data to make their agents measurably better than any general-purpose tool."
+   ],
+   "takeaways": [
+    "Model access is a commodity; the moat lies elsewhere.",
+    "Proprietary usage data, workflow depth and niche distribution are durable advantages.",
+    "Unconventional markets are often the best starting point."
+   ],
+   "faq_q": "What makes an AI startup defensible?",
+   "faq_a": "Proprietary data from product usage, deep integration into customer workflows and strong distribution in a specific niche make AI startups defensible."
+  },
+  "a05": {
+   "title": "Compute economics: how falling inference costs reshape AI startups",
+   "desc": "Inference keeps getting cheaper while frontier training gets more expensive. What this split means for startup margins and strategy.",
+   "body": [
+    "Two cost curves define the AI economy. Training frontier models is becoming dramatically more expensive, while the cost of running a given level of capability — inference — keeps falling.",
+    "For startups this split is good news. Products built on top of models inherit those falling costs, so margins on agentic workflows improve over time without any extra engineering. Tasks that were uneconomic last year become profitable this year.",
+    "The strategic lesson is to design for model portability. Teams that can route work across several providers and open-weight models capture the cost curve, avoid lock-in and protect themselves against supply shocks in the chip market."
+   ],
+   "takeaways": [
+    "Frontier training costs rise while inference costs fall.",
+    "Application companies inherit improving margins.",
+    "Model portability protects against lock-in and supply shocks."
+   ],
+   "faq_q": "Are AI inference costs going down?",
+   "faq_a": "Yes. The cost of delivering a given level of AI capability has fallen steadily, improving margins for companies that build on top of models."
+  },
+  "a06": {
+   "title": "From search to answers: GEO and AEO as a new venture category",
+   "desc": "As people ask AI assistants instead of searching, brands need generative and answer-engine optimisation. Why this is a new market.",
+   "body": [
+    "A growing share of discovery now happens inside AI assistants and AI-generated search summaries. Instead of ten blue links, users receive one synthesised answer — and a brand is either cited in it or invisible.",
+    "This creates a new discipline. Generative engine optimisation (GEO) and answer engine optimisation (AEO) focus on structured data, authoritative content, entity signals and answering the real questions people ask. Measuring citations across several AI engines is itself a new analytics category.",
+    "We think every marketing budget will soon include an AI-visibility line. That is why our portfolio includes companies that research audience questions, produce answer-ready content and track citations across the major AI engines."
+   ],
+   "takeaways": [
+    "AI answers are replacing lists of search results for many queries.",
+    "GEO and AEO optimise for being cited, not just ranked.",
+    "AI-visibility measurement is an emerging software category."
+   ],
+   "faq_q": "What is the difference between SEO, GEO and AEO?",
+   "faq_a": "SEO optimises for search rankings, AEO for being the direct answer to a question, and GEO for being cited by generative AI engines such as ChatGPT, Gemini and Perplexity."
+  },
+  "a07": {
+   "title": "Valuation discipline in the AI boom: lessons from past cycles",
+   "desc": "Every technology boom produces both lasting giants and expensive mistakes. How we stay disciplined while investing in AI.",
+   "body": [
+    "Technology booms follow a familiar pattern. Real breakthroughs attract capital, capital inflates valuations, and a correction separates companies with durable economics from those that only had momentum.",
+    "AI is a genuine platform shift, but that does not make every AI company a good investment. We price companies on evidence: revenue quality, retention, gross margin after model costs and the speed at which the product improves with use.",
+    "Our edge is entering early in unconventional markets, where competition for deals is lower and valuations are grounded. We would rather own a meaningful share of an overlooked agent company than a sliver of a crowded one."
+   ],
+   "takeaways": [
+    "Platform shifts are real, yet valuations can still overshoot.",
+    "Price on revenue quality, retention and post-model gross margin.",
+    "Early entry into overlooked markets keeps valuations grounded."
+   ],
+   "faq_q": "Is AI a bubble?",
+   "faq_a": "AI is a real platform shift, but valuations in parts of the market may overshoot. Investors should focus on revenue quality, margins and retention rather than momentum."
+  },
+  "a08": {
+   "title": "Asia's AI corridor: why Singapore is a launchpad for agentic startups",
+   "desc": "Singapore combines research depth, regulatory clarity and access to diverse Asian markets — ideal conditions for agentic AI companies.",
+   "body": [
+    "Singapore has become one of the most effective launchpads for AI companies in Asia. It offers strong universities, a clear and pragmatic approach to AI governance and a location at the centre of some of the world's fastest-growing digital markets.",
+    "For agentic startups, diversity is an advantage. Building products that work across many languages, cultures and platforms forces teams to create agents that generalise — and that travel well to Europe and the United States.",
+    "Several of our portfolio companies were founded or developed in Singapore. They show how a small, research-rich hub can export AI products and insight to global brands."
+   ],
+   "takeaways": [
+    "Singapore combines research depth with regulatory clarity.",
+    "Building for diverse Asian markets produces robust, portable agents.",
+    "Research-rich hubs can export AI products globally."
+   ],
+   "faq_q": "Why is Singapore attractive for AI startups?",
+   "faq_a": "Singapore offers strong research institutions, pragmatic AI governance, international talent and access to diverse, fast-growing Asian markets."
+  },
+  "a09": {
+   "title": "Scientist-founders: why researchers build the best agentic AI companies",
+   "desc": "Peer-reviewed research is becoming a commercial advantage. Why we look for founders who publish as well as ship.",
+   "body": [
+    "In many software categories, the founder's technical depth matters less than speed to market. In agentic AI, research depth is becoming a decisive advantage.",
+    "Scientist-founders understand the limits of models, design evaluation methods that prove an agent works, and turn published methods into proprietary systems that are hard to replicate. Peer-reviewed papers also serve as credibility with enterprise buyers.",
+    "The best teams pair a scientist with a commercial operator. That combination appears again and again in our portfolio, and it is one of the reasons our fund includes scientists alongside investors and entrepreneurs."
+   ],
+   "takeaways": [
+    "Research depth is a commercial advantage in agentic AI.",
+    "Scientists build evaluation and defensible methods.",
+    "The strongest teams pair scientists with commercial operators."
+   ],
+   "faq_q": "Do AI startups need PhD founders?",
+   "faq_a": "Not always, but in agentic AI, founders with research depth often build stronger evaluation methods and more defensible technology, especially when paired with commercial operators."
+  },
+  "a10": {
+   "title": "Agentic AI for SMEs: automating cross-border growth",
+   "desc": "Small and mid-sized businesses could gain the most from AI agents. How agents can act as a marketing and export department.",
+   "body": [
+    "Large enterprises can afford agencies, analysts and in-market teams. Small and mid-sized businesses usually cannot — which is why they may benefit most from AI agents.",
+    "Agents can research a foreign market, write native-sounding content, publish across channels and measure the response, all for a fraction of the cost of a traditional team. For exporters trying to reach customers abroad, that turns an impossible budget into a monthly subscription.",
+    "We back companies that serve these businesses because the market is enormous, underserved and ignored by most AI investors who focus on enterprise contracts."
+   ],
+   "takeaways": [
+    "SMEs lack the teams that large firms rely on.",
+    "Agents can act as an affordable marketing and export department.",
+    "SME and cross-border markets are large and underserved by AI investors."
+   ],
+   "faq_q": "How can small businesses use AI agents?",
+   "faq_a": "Small businesses can use AI agents for market research, content creation, multichannel publishing and performance measurement at a fraction of the cost of hiring a team."
+  },
+  "a11": {
+   "title": "Responsible AI as an investment criterion",
+   "desc": "Governance, transparency and privacy are not just compliance costs. Why we treat responsible AI as a source of long-term value.",
+   "body": [
+    "As regulation of AI expands across major markets, governance is shifting from a nice-to-have to a requirement for selling to serious customers.",
+    "We look for companies that can explain how their agents reach conclusions, link insights to verifiable sources and analyse data at an aggregate level instead of tracking individuals. These choices reduce regulatory risk and build trust with enterprise buyers.",
+    "Responsible design is also good business. Customers who can verify an agent's output adopt it faster and expand usage more. In our experience, transparency and growth reinforce each other."
+   ],
+   "takeaways": [
+    "AI regulation is turning governance into a sales requirement.",
+    "Transparent, source-linked and privacy-conscious agents win trust.",
+    "Verifiability accelerates adoption and expansion."
+   ],
+   "faq_q": "Why does responsible AI matter to investors?",
+   "faq_a": "Responsible AI reduces regulatory risk, builds customer trust and speeds adoption, which supports long-term enterprise value."
+  }
+ },
+ "privacy_text": "Impact Capital VC uses Google Tag Manager and Google Analytics to understand how visitors use this website. These services may set cookies and process anonymised usage data such as pages viewed, device type and approximate location. We do not sell personal data. Information you send us by email is used only to respond to you. To request access to or deletion of your data, contact us via the email address on this website."
+}

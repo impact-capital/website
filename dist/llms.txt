@@ -1,0 +1,33 @@
+# Impact Capital VC
+
+> Impact Capital VC is a venture fund created by leading venture capitalists, operators, technology entrepreneurs and scientists to back non-standard, unconventional agentic AI companies.
+
+Impact Capital VC invests in non-standard, unconventional agentic AI companies. Content is available in 16 languages: English, 简体中文, Español, हिन्दी, العربية, Français, Português, Русский, 日本語, Deutsch, Bahasa Indonesia, বাংলা, اردو, Türkçe, 한국어, Tiếng Việt. English pages live under https://impactcapital.vc/en/.
+
+## Portfolio
+
+- [Defy](https://impactcapital.vc/en/portfolio/defy/): AI insight and automation for agencies and brand teams. Investment note dated 2026-08-25. Website: https://www.defygroup.ai/
+- [ToucHigh](https://impactcapital.vc/en/portfolio/touchigh/): AI marketing for cross-border sellers entering the US. Investment note dated 2026-03-17. Website: https://touchigh.ai/
+- [Somonitor](https://impactcapital.vc/en/portfolio/somonitor/): Always-on social and brand listening. Investment note dated 2025-09-03. Website: https://somonitor.ai/
+- [Matrex Analytica](https://impactcapital.vc/en/portfolio/matrex-analytica/): Digital presence intelligence for leaders and investors. Investment note dated 2025-02-11. Website: https://matrexanalytica.com/
+- [Mindfuse](https://impactcapital.vc/en/portfolio/mindfuse/): Consumer psychology and cultural insight for Southeast Asia. Investment note dated 2024-06-20. Website: https://mindfuse.sg/
+- [SNMRush](https://impactcapital.vc/en/portfolio/snmrush/): SEO, AEO and GEO — be the answer AI gives. Investment note dated 2023-12-05. Website: https://snmrush.com/
+
+## AI Perspectives
+
+- [The Jensen Huang investigation: what it could mean for the AI industry](https://impactcapital.vc/en/perspectives/nvidia-ceo-investigation-ai-industry-impact/) (2026-11-09): Nvidia's board is investigating CEO Jensen Huang after he admitted an affair. We assess the key-person, export-control and supply-chain implications for the AI industry.
+- [The AI capital supercycle: where venture money is really flowing](https://impactcapital.vc/en/perspectives/ai-capital-supercycle-venture-funding/) (2026-10-14): AI now dominates venture capital. We map where the money goes — infrastructure, models and applications — and why the application layer is underpriced.
+- [Why agentic AI is the next venture frontier](https://impactcapital.vc/en/perspectives/why-agentic-ai-is-the-next-venture-frontier/) (2026-09-02): Chatbots answer questions; agents do work. Here is why agentic AI changes software economics and what investors should look for.
+- [Beyond the foundation model: building moats in the application layer](https://impactcapital.vc/en/perspectives/application-layer-moats-beyond-foundation-models/) (2026-07-21): If everyone can call the same model, where does defensibility come from? Data, workflow depth and distribution in unconventional niches.
+- [Compute economics: how falling inference costs reshape AI startups](https://impactcapital.vc/en/perspectives/compute-economics-ai-startups/) (2026-06-10): Inference keeps getting cheaper while frontier training gets more expensive. What this split means for startup margins and strategy.
+- [From search to answers: GEO and AEO as a new venture category](https://impactcapital.vc/en/perspectives/from-search-to-answers-geo-aeo-venture-opportunity/) (2026-04-28): As people ask AI assistants instead of searching, brands need generative and answer-engine optimisation. Why this is a new market.
+- [Valuation discipline in the AI boom: lessons from past cycles](https://impactcapital.vc/en/perspectives/valuation-discipline-in-the-ai-boom/) (2026-03-17): Every technology boom produces both lasting giants and expensive mistakes. How we stay disciplined while investing in AI.
+- [Asia's AI corridor: why Singapore is a launchpad for agentic startups](https://impactcapital.vc/en/perspectives/singapore-asia-ai-corridor-venture/) (2026-02-03): Singapore combines research depth, regulatory clarity and access to diverse Asian markets — ideal conditions for agentic AI companies.
+- [Scientist-founders: why researchers build the best agentic AI companies](https://impactcapital.vc/en/perspectives/scientist-founders-agentic-ai/) (2025-12-09): Peer-reviewed research is becoming a commercial advantage. Why we look for founders who publish as well as ship.
+- [Agentic AI for SMEs: automating cross-border growth](https://impactcapital.vc/en/perspectives/agentic-ai-smes-cross-border-commerce/) (2025-10-21): Small and mid-sized businesses could gain the most from AI agents. How agents can act as a marketing and export department.
+- [Responsible AI as an investment criterion](https://impactcapital.vc/en/perspectives/responsible-ai-governance-investment-criterion/) (2025-09-16): Governance, transparency and privacy are not just compliance costs. Why we treat responsible AI as a source of long-term value.
+
+## Optional
+
+- [Full text for LLMs](https://impactcapital.vc/llms-full.txt)
+- [Sitemap](https://impactcapital.vc/sitemap.xml)
