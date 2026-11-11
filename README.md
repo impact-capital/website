@@ -5,11 +5,15 @@ Static, multilingual (16 languages) website for Impact Capital VC.
 - `src/` — generator (`build.py`), translations (`src/i18n/*.json`), CSS and JS.
 - `dist/` — the built site. Deploy this folder as the web root.
 
+## Deploy
+
+GitHub Pages serves the `gh-pages` branch, which holds the contents of `dist/`. After rebuilding, publish with `git subtree push --prefix dist origin gh-pages`.
+
 ## Build
 
 ```bash
 pip install babel
-cd src && BASE_URL=https://impactcapital.vc python3 build.py
+cd src && BASE_URL=https://impact-capital.vc python3 build.py
 ```
 
 Set `BASE_URL` to the production domain before building — it is used for canonical URLs,

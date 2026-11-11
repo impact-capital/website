@@ -5,10 +5,10 @@ from babel.dates import format_date
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DIST = os.path.join(ROOT, "..", "dist")
-BASE_URL = os.environ.get("BASE_URL", "https://impactcapital.vc").rstrip("/")
+BASE_URL = os.environ.get("BASE_URL", "https://impact-capital.vc").rstrip("/")
 GTM_ID = "GTM-PH9PW3JR"
 BRAND = "Impact Capital VC"
-CONTACT = "mailto:hello@impactcapital.vc"
+CONTACT = "mailto:hello@impact-capital.vc"
 LINKEDIN = "https://www.linkedin.com/"
 X_URL = "https://x.com/"
 
